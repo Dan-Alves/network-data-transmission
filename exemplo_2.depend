@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1479255198 source:d:\eugenio\cursos\uezo\ed_ii\unidade_iv\exemplo_2\main.c
+	<stdio.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
+1479256997 d:\eugenio\cursos\uezo\ed_ii\unidade_iv\exemplo_2\tad_arvore_binaria_busca.h
+
+1479043914 source:d:\eugenio\cursos\uezo\ed_ii\unidade_iv\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1479044014 source:d:\eugenio\cursos\uezo\ed_ii\unidade_iv\exemplo_2\arvore_avl.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1479257889 source:d:\eugenio\cursos\uezo\ed_ii\unidade_iv\exemplo_2\arvore_b.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1496254814 source:d:\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_avl.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604547794 d:\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\tad_arvore_binaria_busca.h
+
+1600272392 source:d:\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_b.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604548444 source:d:\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604548268 source:d:\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\main.c
+	<stdio.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
+1600272392 source:c:\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_b.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604547794 c:\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\tad_arvore_binaria_busca.h
+
+1613487115 source:c:\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133496 source:c:\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133583 source:c:\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_avl.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133583 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_avl.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604547794 \\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\tad_arvore_binaria_busca.h
+
+1600272392 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_b.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1613487115 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133496 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\ed_ii\exemplos\unidade_iv\exemplo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133583 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\disciplinas\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_avl.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604547794 \\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\disciplinas\ed_ii\exemplos\unidade_iv\exemplo_2\tad_arvore_binaria_busca.h
+
+1600272392 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\disciplinas\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_b.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1613487115 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\disciplinas\ed_ii\exemplos\unidade_iv\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133496 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\uezo\disciplinas\ed_ii\exemplos\unidade_iv\exemplo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TAD_arvore_binaria_busca.h"
+
+1614133583 source:c:\users\daniel alves\desktop\daniel\2020.2\edii\trabalho 3\exemplo_2\arvore_avl.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1604547794 c:\users\daniel alves\desktop\daniel\2020.2\edii\trabalho 3\exemplo_2\tad_arvore_binaria_busca.h
+
+1600272392 source:c:\users\daniel alves\desktop\daniel\2020.2\edii\trabalho 3\exemplo_2\arvore_b.c
+	<stdio.h>
+	"TAD_arvore_binaria_busca.h"
+
+1613487115 source:c:\users\daniel alves\desktop\daniel\2020.2\edii\trabalho 3\exemplo_2\arvore_binaria_busca.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_arvore_binaria_busca.h"
+
+1619538600 source:c:\users\daniel alves\desktop\daniel\2020.2\edii\trabalho 3\exemplo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"TAD_arvore_binaria_busca.h"
+
